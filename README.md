@@ -1,9 +1,9 @@
 # LoR [AI Code Review version.]
 
 
-Edwin:[https://www.overleaf.com/read/hyqqxgxtqjsy#d67fdb](https://www.overleaf.com/read/hyqqxgxtqjsy#d67fdb)
+Edwin: [https://www.overleaf.com/read/hyqqxgxtqjsy#d67fdb](https://www.overleaf.com/read/hyqqxgxtqjsy#d67fdb)
 
-Cindy:[https://www.overleaf.com/read/bxcqwvhvxkqm#2c4e38](https://www.overleaf.com/read/bxcqwvhvxkqm#2c4e38)
+Cindy: [https://www.overleaf.com/read/bxcqwvhvxkqm#2c4e38](https://www.overleaf.com/read/bxcqwvhvxkqm#2c4e38)
 
 有需要修正的地方請不吝指出
 如果沒有要修正可直接附上輸出好的pdf~
