@@ -17,7 +17,9 @@ Jyue-Ting stands out for her technical dependability and her ability to build st
 
 
 Sincerely,
+
 Yen-Cheng Lin Senior 
+
 5G NR Modem AI Engineer, MediaTek
 
 
