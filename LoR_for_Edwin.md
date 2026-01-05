@@ -1,6 +1,6 @@
 To whom it may concern,
 
-It is my distinct pleasure to recommend Bo-Wen Chen for admission to the Professional Master’s Program in Electrical and Computer Engineering at the University of Washington. I serve as a Senior 5G NR Modem AI Engineer at MediaTek, where I have worked closely with Bo-Wen for approximately two years. In my capacity as the Feature Project Manager for the "Predictive Link Continuity (PLC)" project, I directly supervised Bo-Wen’s work on critical machine learning modules for 5G modems. Among the engineering talent I have worked with, I would rank Bo-Wen in the top 5–10%, a standing formally recognized by his recent "I+" annual performance grade (awarded only to the top 10% of employees).
+It is my distinct pleasure to recommend Bo-Wen Chen for admission to the Professional Master’s Program in Electrical and Computer Engineering at the University of Washington. I serve as a Senior 5G NR Modem AI Engineer at MediaTek, where I have worked closely with Bo-Wen for approximately two years. In my capacity as the Feature Project Manager for the "Predictive Link Continuity (PLC)" project, I directly supervised Bo-Wen’s work on critical machine learning modules for 5G modems. Among the engineering talent I have worked with, I would rank Bo-Wen in the top 5–10%, a standing formally recognized by his top-tier annual performance rating.
 
 Bo-Wen distinguishes himself through a rare combination of algorithmic rigor and practical production maturity. His technical acumen is best illustrated by his leadership on the Radio Link Failure (RLF) prediction module, a high-stakes feature designed to trigger early escapes to reduce user stalling. During the evaluation phase, we faced a critical degradation where the model’s recall plummeted to nearly 10%. Bo-Wen performed a deep root cause analysis and identified that the failure stemmed from a severe "simulation-to-reality gap"; the initial training relied on "wrong simulations" that permitted scenarios technically impossible within the realistic User Equipment (UE) environment. Instead of simply attempting to retrain on the same flawed assumptions, he actively refactored the problem formulation to align with physical reality and identified specific features indicating Uplink (UL) deterioration to filter false alarms. His interventions successfully bridged this gap and recovered the model’s recall to approximately 70%, restoring the tool’s viability for production.
 
@@ -8,10 +8,11 @@ Beyond specific feature recovery, Bo-Wen possesses a "Shift Left" mindset that i
 
 Finally, Bo-Wen demonstrates exceptional multidisciplinary agility, bridging the gap between core 5G algorithms and user-facing productivity tools. Recognizing that our team struggled with automated meeting documentation due to heavy code-switching (English/Chinese) and technical jargon, he engineered a "Multimodal LLM Meeting Minutes" tool. Standard ASR solutions failed in our environment, so Bo-Wen integrated visual context by using OCR on presentation slides to correct jargon recognition. He deployed this tool to two teams comprising over 20 active users, utilizing a custom rate-limit mechanism to manage GPU resources and solving a workflow bottleneck that standard external tools could not handle. A key purpose of this custom solution was to prevent the leakage of confidential data, which would have been a risk with standard external tools.
 
-
 Bo-Wen is a proactive engineer who redefines problems rather than just executing tasks. His ability to navigate the full lifecycle of an AI feature—from problem formulation to on-device infrastructure enhancement—makes him an ideal candidate for UW ECE’s graduate program. I recommend him without reservation.
 
 
 Sincerely,
+
 Yen-Cheng Lin Senior 
+
 5G NR Modem AI Engineer, MediaTek
